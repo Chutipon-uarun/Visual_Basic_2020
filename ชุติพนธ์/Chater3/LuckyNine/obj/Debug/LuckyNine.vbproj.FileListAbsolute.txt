@@ -1,0 +1,11 @@
+D:\ชุติพนธ์\LuckyNine\LuckyNine\bin\Debug\LuckyNine.exe.config
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\WindowsApplication1.Form1.resources
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\WindowsApplication1.Resources.resources
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\LuckyNine.vbproj.GenerateResource.Cache
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\LuckyNine.vbprojResolveAssemblyReference.cache
+D:\ชุติพนธ์\LuckyNine\LuckyNine\bin\Debug\LuckyNine.exe
+D:\ชุติพนธ์\LuckyNine\LuckyNine\bin\Debug\LuckyNine.pdb
+D:\ชุติพนธ์\LuckyNine\LuckyNine\bin\Debug\LuckyNine.xml
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\LuckyNine.exe
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\LuckyNine.xml
+D:\ชุติพนธ์\LuckyNine\LuckyNine\obj\Debug\LuckyNine.pdb

@@ -1,0 +1,11 @@
+D:\ชุติพนธ์\ep1\ep1\bin\Debug\ep1.exe.config
+D:\ชุติพนธ์\ep1\ep1\bin\Debug\ep1.exe
+D:\ชุติพนธ์\ep1\ep1\bin\Debug\ep1.pdb
+D:\ชุติพนธ์\ep1\ep1\bin\Debug\ep1.xml
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\WindowsApplication1.Resources.resources
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\ep1.vbproj.GenerateResource.Cache
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\ep1.exe
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\ep1.xml
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\ep1.pdb
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\ep1.vbprojResolveAssemblyReference.cache
+D:\ชุติพนธ์\ep1\ep1\obj\Debug\WindowsApplication1.Form1.resources
